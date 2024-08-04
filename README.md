@@ -16,4 +16,4 @@ The project involved pyhton code to find the below conditions:
 *Find all instances where the weather is clear and the relative humidity is greater than 50, or visibility is above 40.
 *Find the number of weather conditions that include snow.
 
-Also SQL code to find any of th above 4 conditions.
+Also SQL code to find any of th above 4 conditions. The SQL file was executed on https://www.programiz.com/
